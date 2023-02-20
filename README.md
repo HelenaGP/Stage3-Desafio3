@@ -1,7 +1,7 @@
 # Stage3-Desafio3
 Recriando layout complementar ao Stage3-Desafio2, onde criamos o Mobile First, agora criando a página para desktop do desafio. #HTML #CSS #displaygrid #animation #MobileFirst
 
-##Sobre o desafio
+## Sobre o desafio
 Bora colocar em prática tudo o que foi visto nessa terceira fase! 😍
 A ideia agora é criar o Space Cream na versão Desktop! 🚀
 
