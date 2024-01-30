@@ -1,5 +1,5 @@
-#Stage3 - Grid and animation
-##Stage3-Desafio3
+# Stage3 - Grid and animation
+## Stage3-Desafio3
 Desktop layout - Stage3-Desafio2 complementary layout (mobile)
 `#HTML` `#CSS` `#displaygrid` `#animation` `#mobilefirst` `#mediaqueries`
 
